@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: system-ui;
+  font-size: 1.2rem;
+}
+
+a {
+  color: #4865f4;
+  text-decoration: none;
+}
+
+.attribution {
+  background: black;
+  color: white;
+  bottom: 0;
+  display: block;
+  padding: 20px;
+  position: absolute;
+  text-align: center;
+  width: 100vw;
+}
